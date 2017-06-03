@@ -15,7 +15,7 @@ body, th, td, input, textarea, select, option {
 h1, h2, h3 {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
-	color: #66A342;
+	color: #000000;
 }
 
 h1 {
@@ -44,7 +44,7 @@ blockquote {
 	line-height: 1.6em;
 	font-style: italic;
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	color: #66A342;
+	color: #000000;
 }
 
 blockquote p, blockquote ul, blockquote ol {
@@ -53,11 +53,11 @@ blockquote p, blockquote ul, blockquote ol {
 }
 
 a {
-	color: #66A342;
+	color: #0000FF;
 }
 
 a:hover {
-	color: #66A342;
+	color: #000066;
 }
 
 hr {
@@ -123,7 +123,7 @@ hr {
 	width: 530px;
 	margin: 0;
 	padding-left: 30px;
-	color: #666666;
+	color: #000000;
 }
 
 .post {
@@ -134,7 +134,7 @@ hr {
 	padding: 0 20px 5px 0px;
 	font-size: 26px;
 	background: url(images/img06.gif) no-repeat right 40%;
-	border-bottom: 2px #66A342 dashed;
+	border-bottom: 2px #0000FF dashed;
 	margin-right: 20px;
 }
 
@@ -148,12 +148,12 @@ hr {
 
 .byline {
 	margin: -25px 20px 0 0px;
-	color: #66A342;
+	color: #000000;
 }
 
 .meta {
 	text-align: left;
-	color: #66A342;
+	color: #000000;
 	padding: 5px 20px 5px 25px;
 	background: url(images/img07.gif) no-repeat left 50%;
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -170,7 +170,7 @@ hr {
 }
 
 .meta a {
-	color: #66A342;
+	color: #000000;
 }
 
 .navigation {
@@ -223,7 +223,7 @@ hr {
 	width: 210px;
 	margin-bottom: 10px;
 	padding-right: 30px;
-	color: #66A342;
+	color: #0000FF;
 }
 
 #sidebar ul {
@@ -246,16 +246,16 @@ hr {
 	margin: 0 0 0 0;
 	margin: 0 0 0 0;
 	line-height: 35px;
-	border-bottom: 1px #66A342 dotted;
+	border-bottom: 1px #0000FF dotted;
 }
 
 #sidebar h2 {
 	margin: 0px 0 0 20px; 
 	height: 35px;
 	font-size: 18px;
-	color: #66A342;
+	color: #000000;
 	background: url(images/img04.gif) no-repeat right 30%;
-	border-bottom: 2px #66A342 dashed;
+	border-bottom: 2px #0000FF dashed;
 }
 
 #sidebar a {
@@ -276,7 +276,7 @@ hr {
 	display: block;
 	width: 230px;
 	padding: 2px 5px;
-	border: 1px solid #3DD1FF;
+	border: 1px solid #0000FF;
 	background: #FFFFFF url(images/img05.jpg) repeat-x;
 }
 
