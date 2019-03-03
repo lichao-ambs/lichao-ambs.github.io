@@ -20,7 +20,7 @@ h1, h2, h3 {
 
 h1 {
 	letter-spacing: -2px;
-	font-size: 3em;
+	font-size: 2em;
 }
 
 h2 {
@@ -87,19 +87,19 @@ hr {
 }
 
 #header h1 {
-	font-size: 52px;
-	padding: 190px 0 0 35px;
+	font-size: 40px;
+	padding: 180px 0 0 35px;
 	color: #FFFFFF;
 }
 
 #header p {
-	margin-top: -20px;
-	padding: 0 0 0 30px;
-	font-size: 24px;
+	margin-top: -10px;
+	padding: 0 0 0 35px;
+	font-size: 14px;
 	font-weight: normal;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	color: #FFFFFF;
-	text-transform: lowercase;
+	color: #FFFFFF
+	/*text-transform: lowercase;*/
 }
 
 #header a {
